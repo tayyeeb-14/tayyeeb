@@ -1,12 +1,10 @@
-# 🚀 Muhammad Tayyeebur Rohman Talukder | Portfolio
+Tayyeeb | Portfolio
 
 A modern, fully responsive **professional portfolio website** showcasing my skills, projects, and experience as a Full-Stack Web Developer and Computer Science graduate.
 
-**🌐 Location:** Karimganj, Assam, India | **📧 Email:** tayyeeb00@gmail.com
+Location:** Karimganj, Assam, India | 📧Email: tayyeeb00@gmail.com
 
----
-
-## ✨ About This Portfolio
+About This Portfolio
 
 This is a **clean, modern portfolio** built with **HTML5, CSS3, and Vanilla JavaScript** — no frameworks, no dependencies. It features:
 
