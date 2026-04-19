@@ -6,7 +6,7 @@ Location:** Karimganj, Assam, India | 📧Email: tayyeeb00@gmail.com
 
 About This Portfolio
 
-This is a **clean, modern portfolio** built with **HTML5, CSS3, and Vanilla JavaScript** — no frameworks, no dependencies. It features:
+This is a clean, modern portfolio built with HTML5, CSS3, and Vanilla JavaScript — no frameworks, no dependencies. It features:
 
 - 📱 **Fully Responsive Design** — Works perfectly on desktop, tablet, and mobile
 - 🎨 **Modern UI/UX** — Smooth animations, gradient effects, and professional color scheme
